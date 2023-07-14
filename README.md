@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on https://app.noumena.pro/
+- 🔭 I’m currently working on Noumena app[https://app.noumena.pro/]
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on MERN-based projects.
 - 🤔 I’m looking for help with code audits, brainstorming.
