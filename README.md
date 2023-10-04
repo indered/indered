@@ -13,7 +13,7 @@
 
 
 <h1  align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=ℍ𝕚+𝕥𝕙𝕖𝕣𝕖%2C+𝕀'𝕞+𝔸𝕟𝕟𝕒+%F0%9F%A4%8D;𝕀'𝕞+𝔽𝕣𝕠𝕟𝕥𝔼𝕟𝕕+ℝ𝕖𝕒𝕔𝕥+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣" width="320">
+  
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="right">
 </h1>
 
