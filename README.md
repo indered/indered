@@ -17,7 +17,6 @@
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="right">
 </h1>
 
-![](https://komarev.com/ghpvc/?username=anysofronova&color=59A5FE&style=for-the-badge)
 
 ### 💻 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:  
 <div>
