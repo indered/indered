@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=indered&color=59A5FE&style=for-the-badge)
 
 
 - 🔭 I’m currently working on the [Noumena app](https://app.noumena.pro/)
@@ -13,7 +14,7 @@
 
 
 
-### 💻 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:  
+### 💻 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:
 <div>
   <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div> 
