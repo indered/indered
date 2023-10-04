@@ -12,11 +12,6 @@
 - ⚡ Fun fact: I can recite the entire alphabet backwards while standing on one foot. Impressed yet?
 
 
-<h1  align='center'>
-  
-  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="right">
-</h1>
-
 
 ### 💻 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:  
 <div>
